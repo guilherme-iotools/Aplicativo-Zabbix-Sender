@@ -17,3 +17,10 @@ Duas aplicações exemplo foram adicionadas ao App:
 
 --> Bateria do celular: informações de temperatura (ºC), nível de bateria (%) e tensão (V).
 --> Acelerômetro: Acelerações nos eixos x, y e z.
+
+
+Também estamos disponibilizando os Hosts e Mapas usados nos testes desse projeto:
+
+-- zbx_export_hosts.xml --> Host -- zbx_export_maps.xml --> Mapa
+
+É preciso importar esses arquivos no servidor Zabbix.
