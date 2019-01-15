@@ -1,0 +1,15 @@
+# Zabbix-Sender
+Aplicativo Zabbix Sender, desenvolvido para Android.
+
+Este aplicativo foi desenvolvido para Android. São dois Arquivos:
+
+-- Zabbix_post_autenticacao.apk --> Instalador do aplicativo no Android. Basta colocar no celular e rodar o App
+
+-- Zabbix_post_autenticacao.aia --> Código fonte. É necessário importar o projeto na plataforma App Inventor 2.
+
+O objetivo geral do aplicativo é enviar informações do celular do usuário para um determinado item no Zabbix. Para isso,
+é necessário inserir a chave do item e o nome do Host, de outras informações como o IP do servidor e a porta padrão do Zabbix Sender (10051).
+
+Um breve tutorial foi disponibilizado no Canal da IoTools, no Youtube:
+--> https://www.youtube.com/watch?v=nFLO7QceEv4&index=2&list=PLl6eaqJjI6AywgwQl5c5E7OeEQrogRrrJ
+
