@@ -13,3 +13,7 @@ O objetivo geral do aplicativo é enviar informações do celular do usuário pa
 Um breve tutorial foi disponibilizado no Canal da IoTools, no Youtube:
 --> https://www.youtube.com/watch?v=nFLO7QceEv4&index=2&list=PLl6eaqJjI6AywgwQl5c5E7OeEQrogRrrJ
 
+Duas aplicações exemplo foram adicionadas ao App: 
+
+--> Bateria do celular: informações de temperatura (ºC), nível de bateria (%) e tensão (V).
+--> Acelerômetro: Acelerações nos eixos x, y e z.
